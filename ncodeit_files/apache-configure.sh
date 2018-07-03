@@ -1,0 +1,1 @@
+/home/ncodeit/APACHE-RELATED-FILES/httpd-2.2.25/configure --prefix=/home/ncodeit/jbossas7/apache --with-mpm=worker --enable-mods-shared=most --enable-maintainer-mode --with-expat=builtin --enable-ssl --enable-proxy --enable-proxy-http --enable-proxy-ajp --disable-proxy-balancer
